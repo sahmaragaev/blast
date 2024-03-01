@@ -1,0 +1,541 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sahmaragaev/RiderProjects/Blast/Api/Api.csproj": {}
+  },
+  "projects": {
+    "/Users/sahmaragaev/RiderProjects/Blast/Api/Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sahmaragaev/RiderProjects/Blast/Api/Api.csproj",
+        "projectName": "Api",
+        "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/Api/Api.csproj",
+        "packagesPath": "/Users/sahmaragaev/.nuget/packages/",
+        "outputPath": "/Users/sahmaragaev/RiderProjects/Blast/Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sahmaragaev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.jetbrains.space/loop-dev/p/main/loop-nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sahmaragaev/RiderProjects/Blast/Database/Database.csproj": {
+                "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/Database/Database.csproj"
+              },
+              "/Users/sahmaragaev/RiderProjects/Blast/Service/Service.csproj": {
+                "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/Service/Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sahmaragaev/RiderProjects/Blast/Configuration/Configuration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sahmaragaev/RiderProjects/Blast/Configuration/Configuration.csproj",
+        "projectName": "Configuration",
+        "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/Configuration/Configuration.csproj",
+        "packagesPath": "/Users/sahmaragaev/.nuget/packages/",
+        "outputPath": "/Users/sahmaragaev/RiderProjects/Blast/Configuration/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sahmaragaev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.jetbrains.space/loop-dev/p/main/loop-nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sahmaragaev/RiderProjects/Blast/Database/Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sahmaragaev/RiderProjects/Blast/Database/Database.csproj",
+        "projectName": "Database",
+        "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/Database/Database.csproj",
+        "packagesPath": "/Users/sahmaragaev/.nuget/packages/",
+        "outputPath": "/Users/sahmaragaev/RiderProjects/Blast/Database/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sahmaragaev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.jetbrains.space/loop-dev/p/main/loop-nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sahmaragaev/RiderProjects/Blast/Configuration/Configuration.csproj": {
+                "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/Configuration/Configuration.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sahmaragaev/RiderProjects/Blast/FastFailing/FastFailing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sahmaragaev/RiderProjects/Blast/FastFailing/FastFailing.csproj",
+        "projectName": "FastFailing",
+        "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/FastFailing/FastFailing.csproj",
+        "packagesPath": "/Users/sahmaragaev/.nuget/packages/",
+        "outputPath": "/Users/sahmaragaev/RiderProjects/Blast/FastFailing/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sahmaragaev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.jetbrains.space/loop-dev/p/main/loop-nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Loop.FastFailing": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sahmaragaev/RiderProjects/Blast/Monitoring/Monitoring.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sahmaragaev/RiderProjects/Blast/Monitoring/Monitoring.csproj",
+        "projectName": "Monitoring",
+        "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/Monitoring/Monitoring.csproj",
+        "packagesPath": "/Users/sahmaragaev/.nuget/packages/",
+        "outputPath": "/Users/sahmaragaev/RiderProjects/Blast/Monitoring/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sahmaragaev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.jetbrains.space/loop-dev/p/main/loop-nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sahmaragaev/RiderProjects/Blast/Utility/Utility.csproj": {
+                "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/Utility/Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "prometheus-net": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
+            "prometheus-net.AspNetCore.HealthChecks": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sahmaragaev/RiderProjects/Blast/Service/Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sahmaragaev/RiderProjects/Blast/Service/Service.csproj",
+        "projectName": "Service",
+        "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/Service/Service.csproj",
+        "packagesPath": "/Users/sahmaragaev/.nuget/packages/",
+        "outputPath": "/Users/sahmaragaev/RiderProjects/Blast/Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sahmaragaev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.jetbrains.space/loop-dev/p/main/loop-nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sahmaragaev/RiderProjects/Blast/Configuration/Configuration.csproj": {
+                "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/Configuration/Configuration.csproj"
+              },
+              "/Users/sahmaragaev/RiderProjects/Blast/FastFailing/FastFailing.csproj": {
+                "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/FastFailing/FastFailing.csproj"
+              },
+              "/Users/sahmaragaev/RiderProjects/Blast/Monitoring/Monitoring.csproj": {
+                "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/Monitoring/Monitoring.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Loop.Auth": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Loop.Configuration": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Loop.Database": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Loop.FastFailing": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Loop.Integration": {
+              "target": "Package",
+              "version": "[7.6.12, )"
+            },
+            "Loop.Logging": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Loop.Mediator": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Loop.Monitoring": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Loop.Swagger": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "prometheus-net.AspNetCore": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sahmaragaev/RiderProjects/Blast/Utility/Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sahmaragaev/RiderProjects/Blast/Utility/Utility.csproj",
+        "projectName": "Utility",
+        "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/Utility/Utility.csproj",
+        "packagesPath": "/Users/sahmaragaev/.nuget/packages/",
+        "outputPath": "/Users/sahmaragaev/RiderProjects/Blast/Utility/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sahmaragaev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.jetbrains.space/loop-dev/p/main/loop-nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
