@@ -52,4 +52,4 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller}/{action=Index}/{id?}");
 
-app.Run();
+app.RunWithFastFailing();

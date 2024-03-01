@@ -1,0 +1,16 @@
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/bin/Debug/net8.0/Monitoring.deps.json
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/bin/Debug/net8.0/Monitoring.dll
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/bin/Debug/net8.0/Monitoring.pdb
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/bin/Debug/net8.0/Utility.dll
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/bin/Debug/net8.0/Utility.pdb
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/obj/Debug/net8.0/Monitoring.csproj.AssemblyReference.cache
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/obj/Debug/net8.0/Monitoring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/obj/Debug/net8.0/Monitoring.AssemblyInfoInputs.cache
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/obj/Debug/net8.0/Monitoring.AssemblyInfo.cs
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/obj/Debug/net8.0/Monitoring.csproj.CoreCompileInputs.cache
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/obj/Debug/net8.0/Monitoring.sourcelink.json
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/obj/Debug/net8.0/Monitoring.csproj.CopyComplete
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/obj/Debug/net8.0/Monitoring.dll
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/obj/Debug/net8.0/refint/Monitoring.dll
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/obj/Debug/net8.0/Monitoring.pdb
+/Users/sahmaragaev/RiderProjects/Blast/Monitoring/obj/Debug/net8.0/ref/Monitoring.dll
