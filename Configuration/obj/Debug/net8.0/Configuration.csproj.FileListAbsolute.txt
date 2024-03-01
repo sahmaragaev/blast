@@ -1,0 +1,12 @@
+/Users/sahmaragaev/RiderProjects/Blast/Configuration/bin/Debug/net8.0/Configuration.deps.json
+/Users/sahmaragaev/RiderProjects/Blast/Configuration/bin/Debug/net8.0/Configuration.dll
+/Users/sahmaragaev/RiderProjects/Blast/Configuration/bin/Debug/net8.0/Configuration.pdb
+/Users/sahmaragaev/RiderProjects/Blast/Configuration/obj/Debug/net8.0/Configuration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahmaragaev/RiderProjects/Blast/Configuration/obj/Debug/net8.0/Configuration.AssemblyInfoInputs.cache
+/Users/sahmaragaev/RiderProjects/Blast/Configuration/obj/Debug/net8.0/Configuration.AssemblyInfo.cs
+/Users/sahmaragaev/RiderProjects/Blast/Configuration/obj/Debug/net8.0/Configuration.csproj.CoreCompileInputs.cache
+/Users/sahmaragaev/RiderProjects/Blast/Configuration/obj/Debug/net8.0/Configuration.sourcelink.json
+/Users/sahmaragaev/RiderProjects/Blast/Configuration/obj/Debug/net8.0/Configuration.dll
+/Users/sahmaragaev/RiderProjects/Blast/Configuration/obj/Debug/net8.0/refint/Configuration.dll
+/Users/sahmaragaev/RiderProjects/Blast/Configuration/obj/Debug/net8.0/Configuration.pdb
+/Users/sahmaragaev/RiderProjects/Blast/Configuration/obj/Debug/net8.0/ref/Configuration.dll
