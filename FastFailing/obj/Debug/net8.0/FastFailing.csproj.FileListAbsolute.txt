@@ -1,0 +1,13 @@
+/Users/sahmaragaev/RiderProjects/Blast/FastFailing/bin/Debug/net8.0/FastFailing.deps.json
+/Users/sahmaragaev/RiderProjects/Blast/FastFailing/bin/Debug/net8.0/FastFailing.dll
+/Users/sahmaragaev/RiderProjects/Blast/FastFailing/bin/Debug/net8.0/FastFailing.pdb
+/Users/sahmaragaev/RiderProjects/Blast/FastFailing/obj/Debug/net8.0/FastFailing.csproj.AssemblyReference.cache
+/Users/sahmaragaev/RiderProjects/Blast/FastFailing/obj/Debug/net8.0/FastFailing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahmaragaev/RiderProjects/Blast/FastFailing/obj/Debug/net8.0/FastFailing.AssemblyInfoInputs.cache
+/Users/sahmaragaev/RiderProjects/Blast/FastFailing/obj/Debug/net8.0/FastFailing.AssemblyInfo.cs
+/Users/sahmaragaev/RiderProjects/Blast/FastFailing/obj/Debug/net8.0/FastFailing.csproj.CoreCompileInputs.cache
+/Users/sahmaragaev/RiderProjects/Blast/FastFailing/obj/Debug/net8.0/FastFailing.sourcelink.json
+/Users/sahmaragaev/RiderProjects/Blast/FastFailing/obj/Debug/net8.0/FastFailing.dll
+/Users/sahmaragaev/RiderProjects/Blast/FastFailing/obj/Debug/net8.0/refint/FastFailing.dll
+/Users/sahmaragaev/RiderProjects/Blast/FastFailing/obj/Debug/net8.0/FastFailing.pdb
+/Users/sahmaragaev/RiderProjects/Blast/FastFailing/obj/Debug/net8.0/ref/FastFailing.dll

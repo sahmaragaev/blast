@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "I1v5KY/Uz0WM1qnPKNjt/LmiWIZE5y/Lq/l1z7HuLFgmpuLs+CLPELjnTuq92n6rw6G9NF3wIb8cjk/FtEa4Jg==",
+  "success": true,
+  "projectFilePath": "/Users/sahmaragaev/RiderProjects/Blast/Monitoring/Monitoring.csproj",
+  "expectedPackageFiles": [
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.configuration/3.1.0/microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.configuration.binder/3.1.0/microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.0/microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.diagnostics.healthchecks/6.0.9/microsoft.extensions.diagnostics.healthchecks.6.0.9.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.9/microsoft.extensions.diagnostics.healthchecks.abstractions.6.0.9.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.hosting.abstractions/6.0.0/microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.http/3.1.0/microsoft.extensions.http.3.1.0.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.logging/3.1.0/microsoft.extensions.logging.3.1.0.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.2/microsoft.extensions.logging.abstractions.6.0.2.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.objectpool/7.0.0/microsoft.extensions.objectpool.7.0.0.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/prometheus-net/8.2.1/prometheus-net.8.2.1.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/prometheus-net.aspnetcore/8.2.1/prometheus-net.aspnetcore.8.2.1.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/prometheus-net.aspnetcore.healthchecks/8.2.1/prometheus-net.aspnetcore.healthchecks.8.2.1.nupkg.sha512",
+    "/Users/sahmaragaev/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Loop.FastFailing/4.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/Loop.FastFailing.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/Loop.FastFailing.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Loop.FastFailing/4.0.0": {
+      "sha512": "A6zB8D0XV79cDe01DZC3+dV0o1vc0ESdKXB+DTSghrDjZMsjT2y21+xOWyLb4R5dfk7cDYC1sf1ltLvghC1CwQ==",
+      "type": "package",
+      "path": "loop.fastfailing/4.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net7.0/Loop.FastFailing.dll",
+        "loop.fastfailing.4.0.0.nupkg.sha512",
+        "loop.fastfailing.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Loop.FastFailing >= 4.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/sahmaragaev/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/sahmaragaev/RiderProjects/Blast/FastFailing/FastFailing.csproj",
+      "projectName": "FastFailing",
+      "projectPath": "/Users/sahmaragaev/RiderProjects/Blast/FastFailing/FastFailing.csproj",
+      "packagesPath": "/Users/sahmaragaev/.nuget/packages/",
+      "outputPath": "/Users/sahmaragaev/RiderProjects/Blast/FastFailing/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/sahmaragaev/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.jetbrains.space/loop-dev/p/main/loop-nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Loop.FastFailing": {
+            "target": "Package",
+            "version": "[4.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

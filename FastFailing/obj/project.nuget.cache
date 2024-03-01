@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gs5W8C1HFYC+F4C9UZVeZLnk3Hdft1ypvkBTuTi3ltKjNYNrw4EzzefugFzcmK/FZJBcWFiXmSV9bNE2SzXtzw==",
+  "success": true,
+  "projectFilePath": "/Users/sahmaragaev/RiderProjects/Blast/FastFailing/FastFailing.csproj",
+  "expectedPackageFiles": [
+    "/Users/sahmaragaev/.nuget/packages/loop.fastfailing/4.0.0/loop.fastfailing.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
