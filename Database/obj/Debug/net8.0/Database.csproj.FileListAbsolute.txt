@@ -1,0 +1,16 @@
+/Users/sahmaragaev/RiderProjects/Blast/Database/bin/Debug/net8.0/Database.deps.json
+/Users/sahmaragaev/RiderProjects/Blast/Database/bin/Debug/net8.0/Database.dll
+/Users/sahmaragaev/RiderProjects/Blast/Database/bin/Debug/net8.0/Database.pdb
+/Users/sahmaragaev/RiderProjects/Blast/Database/obj/Debug/net8.0/Database.csproj.AssemblyReference.cache
+/Users/sahmaragaev/RiderProjects/Blast/Database/obj/Debug/net8.0/Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahmaragaev/RiderProjects/Blast/Database/obj/Debug/net8.0/Database.AssemblyInfoInputs.cache
+/Users/sahmaragaev/RiderProjects/Blast/Database/obj/Debug/net8.0/Database.AssemblyInfo.cs
+/Users/sahmaragaev/RiderProjects/Blast/Database/obj/Debug/net8.0/Database.csproj.CoreCompileInputs.cache
+/Users/sahmaragaev/RiderProjects/Blast/Database/obj/Debug/net8.0/Database.sourcelink.json
+/Users/sahmaragaev/RiderProjects/Blast/Database/obj/Debug/net8.0/Database.dll
+/Users/sahmaragaev/RiderProjects/Blast/Database/obj/Debug/net8.0/refint/Database.dll
+/Users/sahmaragaev/RiderProjects/Blast/Database/obj/Debug/net8.0/Database.pdb
+/Users/sahmaragaev/RiderProjects/Blast/Database/obj/Debug/net8.0/ref/Database.dll
+/Users/sahmaragaev/RiderProjects/Blast/Database/bin/Debug/net8.0/Configuration.dll
+/Users/sahmaragaev/RiderProjects/Blast/Database/bin/Debug/net8.0/Configuration.pdb
+/Users/sahmaragaev/RiderProjects/Blast/Database/obj/Debug/net8.0/Database.csproj.CopyComplete
