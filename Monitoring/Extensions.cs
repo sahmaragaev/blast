@@ -12,11 +12,11 @@ public static class Extensions
 {
     public static void AddMetricReporters(this WebApplicationBuilder builder)
     {
-        Assembly assembly = Assembly.GetEntryAssembly() ?? throw new InvalidOperationException("Cannot work in unmanaged application!");
+        var assembly = Assembly.GetEntryAssembly() ?? throw new InvalidOperationException("Cannot work in unmanaged application!");
 
         IEnumerable<Type> types = assembly.GetTypesByAttribute<MetricReporterAttribute>();
 
-        foreach (Type type in types)
+        foreach (var type in types)
         {
             builder.Services.AddSingleton(type);
         }
