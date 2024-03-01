@@ -1,0 +1,12 @@
+/Users/sahmaragaev/RiderProjects/Blast/Utility/bin/Debug/net8.0/Utility.deps.json
+/Users/sahmaragaev/RiderProjects/Blast/Utility/bin/Debug/net8.0/Utility.dll
+/Users/sahmaragaev/RiderProjects/Blast/Utility/bin/Debug/net8.0/Utility.pdb
+/Users/sahmaragaev/RiderProjects/Blast/Utility/obj/Debug/net8.0/Utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahmaragaev/RiderProjects/Blast/Utility/obj/Debug/net8.0/Utility.AssemblyInfoInputs.cache
+/Users/sahmaragaev/RiderProjects/Blast/Utility/obj/Debug/net8.0/Utility.AssemblyInfo.cs
+/Users/sahmaragaev/RiderProjects/Blast/Utility/obj/Debug/net8.0/Utility.csproj.CoreCompileInputs.cache
+/Users/sahmaragaev/RiderProjects/Blast/Utility/obj/Debug/net8.0/Utility.sourcelink.json
+/Users/sahmaragaev/RiderProjects/Blast/Utility/obj/Debug/net8.0/Utility.dll
+/Users/sahmaragaev/RiderProjects/Blast/Utility/obj/Debug/net8.0/refint/Utility.dll
+/Users/sahmaragaev/RiderProjects/Blast/Utility/obj/Debug/net8.0/Utility.pdb
+/Users/sahmaragaev/RiderProjects/Blast/Utility/obj/Debug/net8.0/ref/Utility.dll

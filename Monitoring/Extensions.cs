@@ -14,7 +14,7 @@ public static class Extensions
     {
         var assembly = Assembly.GetEntryAssembly() ?? throw new InvalidOperationException("Cannot work in unmanaged application!");
 
-        IEnumerable<Type> types = assembly.GetTypesByAttribute<MetricReporterAttribute>();
+        var types = assembly.GetTypesByAttribute<MetricReporterAttribute>();
 
         foreach (var type in types)
         {
