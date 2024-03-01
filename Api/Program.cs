@@ -1,5 +1,6 @@
 using Configuration;
 using Database.DbContexts;
+using FastFailing;
 using Microsoft.OpenApi.Models;
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,6 +27,8 @@ if (mongoDbSettings is not null) builder.Services.AddSingleton(new MongoDbContex
 // builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JwtSettings"));
 
 // builder.Services.AddScoped<IApartmentService, ApartmentService>();
+
+builder.AddFastFailing();
 
 var app = builder.Build();
 
