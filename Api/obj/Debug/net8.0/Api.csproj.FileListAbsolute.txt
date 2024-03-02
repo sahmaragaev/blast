@@ -157,3 +157,8 @@
 /Users/sahmaragaev/RiderProjects/Blast/Api/bin/Debug/net8.0/FastFailing.pdb
 /Users/sahmaragaev/RiderProjects/Blast/Api/bin/Debug/net8.0/Monitoring.pdb
 /Users/sahmaragaev/RiderProjects/Blast/Api/bin/Debug/net8.0/Utility.pdb
+/Users/sahmaragaev/RiderProjects/Blast/Api/bin/Debug/net8.0/NLog.config
+/Users/sahmaragaev/RiderProjects/Blast/Api/bin/Debug/net8.0/NLog.dll
+/Users/sahmaragaev/RiderProjects/Blast/Api/bin/Debug/net8.0/NLog.Extensions.Logging.dll
+/Users/sahmaragaev/RiderProjects/Blast/Api/bin/Debug/net8.0/Domain.dll
+/Users/sahmaragaev/RiderProjects/Blast/Api/bin/Debug/net8.0/Domain.pdb

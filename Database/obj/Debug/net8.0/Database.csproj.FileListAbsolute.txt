@@ -14,3 +14,5 @@
 /Users/sahmaragaev/RiderProjects/Blast/Database/bin/Debug/net8.0/Configuration.dll
 /Users/sahmaragaev/RiderProjects/Blast/Database/bin/Debug/net8.0/Configuration.pdb
 /Users/sahmaragaev/RiderProjects/Blast/Database/obj/Debug/net8.0/Database.csproj.CopyComplete
+/Users/sahmaragaev/RiderProjects/Blast/Database/bin/Debug/net8.0/Domain.dll
+/Users/sahmaragaev/RiderProjects/Blast/Database/bin/Debug/net8.0/Domain.pdb

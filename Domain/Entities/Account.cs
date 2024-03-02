@@ -14,13 +14,13 @@ public class Account
 
     [BsonElement("password")] public string Password { get; set; }
 
-    [BsonElement("trustees")] public List<Citizen> Trustees { get; set; }
+    [BsonElement("trustees")] public List<Citizen>? Trustees { get; set; }
 
-    [BsonElement("grantors")] public List<Citizen> Grantors { get; set; }
+    [BsonElement("grantors")] public List<Citizen>? Grantors { get; set; }
 
-    [BsonElement("wills")] public List<Will> Wills { get; set; }
+    [BsonElement("wills")] public List<Will>? Wills { get; set; }
 
-    [BsonElement("finalWill")] public Will FinalWill { get; set; }
+    [BsonElement("finalWill")] public Will? FinalWill { get; set; }
 
-    [BsonElement("assets")] public List<Asset> Assets { get; set; }
+    [BsonElement("assets")] public List<Asset>? Assets { get; set; }
 }

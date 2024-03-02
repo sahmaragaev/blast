@@ -16,5 +16,5 @@ public class Citizen
 
     [BsonElement("birthDate")] public DateTime BirthDate { get; set; }
 
-    [BsonElement("fin")] public string Fin { get; set; }
+    [BsonElement("fin")] public string Pin { get; set; }
 }

@@ -4,15 +4,13 @@ using MongoDB.Bson.Serialization.Attributes;
 namespace Domain.Entities;
 
 [BsonIgnoreExtraElements]
-public class CitizenAssetTask
+public class Quest
 {
     [BsonRepresentation(BsonType.ObjectId)]
     [BsonId]
     public string Id { get; set; }
+    
+    [BsonElement("title")] public string Title { get; set; }
 
-    [BsonElement("citizen")] public Citizen Citizen { get; set; }
-
-    [BsonElement("asset")] public Asset Asset { get; set; }
-
-    [BsonElement("task")] public Task Task { get; set; }
+    [BsonElement("description")] public string Description { get; set; }
 }

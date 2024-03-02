@@ -8,5 +8,5 @@ public class Will
 {
     [BsonElement("grantor")] public Account Grantor { get; set; }
 
-    [BsonElement("citizenAssets")] public List<CitizenAssetTask> CitizenAssets { get; set; }
+    [BsonElement("citizenAssets")] public List<CitizenAssetQuest> CitizenAssets { get; set; }
 }

@@ -10,16 +10,14 @@
 
     <ItemGroup>
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.0"/>
+        <PackageReference Include="NLog" Version="5.2.8" />
+        <PackageReference Include="NLog.Extensions.Logging" Version="5.3.8" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0"/>
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\Database\Database.csproj" />
       <ProjectReference Include="..\Service\Service.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Controllers\" />
     </ItemGroup>
 
 </Project>

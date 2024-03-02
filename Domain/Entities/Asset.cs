@@ -8,7 +8,7 @@ public class Asset
 {
     [BsonElement("name")] public string Name { get; set; }
 
-    [BsonElement("value")] public decimal Value { get; set; }
+    [BsonElement("value")] public decimal? Value { get; set; }
 
     [BsonElement("assetType")] public AssetType AssetType { get; set; }
 }

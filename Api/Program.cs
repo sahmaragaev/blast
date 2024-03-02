@@ -2,6 +2,10 @@ using Configuration;
 using Database.DbContexts;
 using FastFailing;
 using Microsoft.OpenApi.Models;
+using NLog.Extensions.Logging;
+using Service.Implementations;
+using Service.Interfaces;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
@@ -9,6 +13,7 @@ builder.Services.AddLogging(loggingBuilder =>
 {
     loggingBuilder.ClearProviders();
     loggingBuilder.SetMinimumLevel(LogLevel.Trace);
+    loggingBuilder.AddNLog("NLog.config");
 });
 
 builder.Services.AddCors(options =>
@@ -26,7 +31,7 @@ if (mongoDbSettings is not null) builder.Services.AddSingleton(new MongoDbContex
 
 // builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JwtSettings"));
 
-// builder.Services.AddScoped<IApartmentService, ApartmentService>();
+builder.Services.AddScoped<IAccountService, AccountService>();
 
 builder.AddFastFailing();
 

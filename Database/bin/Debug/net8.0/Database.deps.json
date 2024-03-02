@@ -9,6 +9,7 @@
       "Database/1.0.0": {
         "dependencies": {
           "Configuration": "1.0.0",
+          "Domain": "1.0.0",
           "MediatR": "12.1.1",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.14",
           "Microsoft.EntityFrameworkCore": "7.0.14",
@@ -686,6 +687,14 @@
         "runtime": {
           "Configuration.dll": {}
         }
+      },
+      "Domain/1.0.0": {
+        "dependencies": {
+          "MongoDB.Bson": "2.24.0"
+        },
+        "runtime": {
+          "Domain.dll": {}
+        }
       }
     }
   },
@@ -1207,6 +1216,11 @@
       "hashPath": "zstdsharp.port.0.7.3.nupkg.sha512"
     },
     "Configuration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,13 @@
+/Users/sahmaragaev/RiderProjects/Blast/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/sahmaragaev/RiderProjects/Blast/Domain/bin/Debug/net8.0/Domain.dll
+/Users/sahmaragaev/RiderProjects/Blast/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/sahmaragaev/RiderProjects/Blast/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
+/Users/sahmaragaev/RiderProjects/Blast/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahmaragaev/RiderProjects/Blast/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/sahmaragaev/RiderProjects/Blast/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/sahmaragaev/RiderProjects/Blast/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/sahmaragaev/RiderProjects/Blast/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/Users/sahmaragaev/RiderProjects/Blast/Domain/obj/Debug/net8.0/Domain.dll
+/Users/sahmaragaev/RiderProjects/Blast/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/sahmaragaev/RiderProjects/Blast/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/sahmaragaev/RiderProjects/Blast/Domain/obj/Debug/net8.0/ref/Domain.dll
